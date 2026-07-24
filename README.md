@@ -1,4 +1,3 @@
-# SahkoAnalyysi
+# SahkoAnalyysi v0.2
 
-npm install
-npm run dev
+Lisätty Vite-konfiguraatio, TypeScript, GitHub Actions -runko ja CSV-parseri.
